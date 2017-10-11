@@ -13,14 +13,14 @@ Whow to use:
 After start stm32f103 should send you a message  "Firmware-1" and starts blink by led connected on pc13.
 
 
-Fitmware 1 -  accept come digits and react on it. 
+Fitmware 1 -  accept some digits and react on it. 
 1 - blink will light 300ms
 2 - blink will light 600ms
 5 - will reboot STM32f103
 8 - will jump to Firmware-2
 
 
-Fitmware 1 -  accept come digits and react on it. 
+Fitmware 1 -  accept some digits and react on it. 
 1 - blink will light 600ms
 2 - blink will light 1100ms
 9 - will reboot STM32f103
